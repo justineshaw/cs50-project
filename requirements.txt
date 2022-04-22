@@ -157,7 +157,7 @@ pylint-plugin-utils==0.4
 pyodbc==4.0.25
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.5
 PyQt5==5.12
 PyQt5-sip==4.19.14
